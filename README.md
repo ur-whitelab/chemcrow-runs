@@ -9,6 +9,6 @@
 
 <br></br>
 
-This repo contains all the notebooks for the experiments in ![the paper](https://doi.org/10.48550/arXiv.2304.05376).
+ChemCrow-runs contains all the notebooks for the experiments in [the paper](https://doi.org/10.48550/arXiv.2304.05376).
 
 An open-source version of ChemCrow has been made available in ![this repo](https://github.com/ur-whitelab/chemcrow-public).
