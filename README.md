@@ -1,4 +1,6 @@
 [![DOI:10.1101/2020.07.15.204701](https://zenodo.org/badge/DOI/10.48550/arXiv.2304.05376.svg)](https://doi.org/10.48550/arXiv.2304.05376)
+[![DOI](https://zenodo.org/badge/646873842.svg)](https://zenodo.org/doi/10.5281/zenodo.10884644)
+
 
 
 <picture>
